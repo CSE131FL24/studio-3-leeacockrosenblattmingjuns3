@@ -6,12 +6,15 @@ public class Sieve {
 		Scanner in = new Scanner(System.in);
 		// First, generate a list of integers from 1 to 40:
 				boolean[][] Pnumber = new boolean[9][4];
+				boolean Pnumber = true;
 				for(int i = 2; i <= Pnumber.length; i++);
 				
 				{
 					for(int i = 2; i <= Pnumber.length; i++);
 					{
-						2 * i = false;
+				        for (int i = 2; i < Pnumber.length; i++); 
+				        {
+				        	if 2*i 
 					}
 				}
 		
